@@ -9,7 +9,7 @@ UPDATE_INTERVAL = 30  # seconds
 ARANGO_URL = "http://localhost:8529"
 DB_NAME = "_system"   # using the _system database
 USERNAME = "root"
-PASSWORD = "yourpassword"
+PASSWORD = "your_password"
 COLLECTION_NAME = "traffic_data"  # Target collection name
 
 # --- Connect to ArangoDB _system database ---
