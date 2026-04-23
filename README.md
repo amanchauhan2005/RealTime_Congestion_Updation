@@ -1,6 +1,6 @@
 # 📶 Telecom Handover Simulation System
 
-A **Dockerized**, **scalable simulation** of mobile handovers among cell-tower nodes, storing recent data in **ArangoDB** and visualizing the **handover graph**. Includes automated data generation, retention cleanup, and graph visualization.
+A, **scalable simulation** of mobile handovers among cell-tower nodes, storing recent data in **ArangoDB** and visualizing the **handover graph**. Includes automated data generation, retention cleanup, and graph visualization.
 
 ---
 
@@ -199,4 +199,4 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 
 For questions or collaboration, contact me at:  
-📧 **mokshhyadav.024@gmail.com**
+📧 **amanchauhan2005@gmail.com**
